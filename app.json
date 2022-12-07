@@ -1,11 +1,11 @@
 {
-    "name": "qiang",
-    "description": "fanqiang.",
+    "name": "qiangg",
+    "description": "fanh.",
     "keywords": ["qiang"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "a6f041e2-71c2-4a48-89fc-9c2ef16bc151"
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7""
         },
         "WSPATH": {
             "description": "WebSocket Path",
